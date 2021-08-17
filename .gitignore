@@ -1,9 +1,27 @@
-#  Local .terraform directories
-**/.terraform/*
-
 # .tfstate files
+**/.terraform/**
+**tfstate*
+**/*.pem
+terraform.tfvars
+**/account.json
+**/credentials
+.DS_Store
+.terraform
+.terraform.tfstate.d
+*.pyc
+.terraform.lock.hcl
 *.tfstate
 *.tfstate.*
-
-# .tfvars files
-*.tfvars
+*.tfplan
+*.tfstate
+*.tfstate.backup
+crash.log
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+.terraformrc
+terraform.rc
+builds/
+__pycache__/
+.terraform/
