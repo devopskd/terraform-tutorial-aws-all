@@ -11,5 +11,5 @@ To learn about module, follow the readme of each module.
 
 - **Terraform**: v0.11.14
 - **Terraform Docs**: https://www.terraform.io/docs/configuration-0-11/index.html
-- **Youtube Channel for subscription**: 
+- **Youtube Channel for subscription**: https://www.youtube.com/channel/UCCMZnX9S0iIjeIDqefIEpVw
 
